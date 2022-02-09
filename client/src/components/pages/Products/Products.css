@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Karla:ital@1&family=Pacifico&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font: 14px normal Arial, sans-serif;
+}
+
+body { 
+  background-image: url(https://res.cloudinary.com/dxslsbznp/image/upload/v1644353360/cactus-wallpaper-whatspaper-2_mqdsq2.jpg);
+  background-color: rgba(230, 219, 211, 0.637);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-size: 4.2em;
+  font-weight: 200px; 
+}
+
+body:before {
+	 content:'';
+    top: 0;
+	 bottom: 0;
+	 left: 0;
+	 right: 0;
+	 background-color: rgba(230, 219, 211, 0.637);
+    min-height: 100%;
+    min-width: 800px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    z-index: -1;
+}
+
+h1 {
+    font-size: 10.2em !important;
+    font-weight: bold !important;
+    height: 100px !important;
+    justify-content: center;
+    margin: 0 auto 150px 0 !important;
+    padding-top: 50px;
+}
+
+.logo-flag{
+    height: 150px !important;
+    padding: 0 10px;
+}
+
+.new-product{
+    font-size: 1.3em !important;
+    width: 200px;
+}
+
+.button-new-product{
+    font-size: 1.7em !important;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px !important;
+    display: flex !important;
+}
+
+.dropdown{
+    font-size: 1.3em !important;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px 0 !important;
+}
+
+.dropdown-item{
+    font-size: 1.3em !important; 
+    font-family: 'Karla, sans-serif'; 
+}
+
+.buttons-index{
+   justify-content: center !important;
+   align-items: flex-start;
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.searchBarItems{
+   max-width: 1200px;
+   font-size: 1.5em;
+   margin: 0 auto;
+   justify-content: center;
+   display: flex;
+   flex-wrap: wrap;
+} 
+
+.intermediate{
+    padding: 0 10px;
+}
+
+
+@media (max-width: 768px) {
+h1
+{
+   font-size: 5em !important;
+   margin: 0 auto 60px 0 !important;
+}
+
+.logo-flag
+{
+   height: 70px !important;
+}
+.searchBarItems{
+   display: flex;
+   text-align: center;
+   margin: 0 auto;
+}
+
+.article {
+   font-size: .8em !important;
+   padding-right: 10px
+}
+.searchResults {
+   font-size: .8em !important;
+   padding-left: 10px
+}
+.intermediate{
+   display:none;
+}
+
+.buttons-index{
+   margin: 0 auto;
+   align-items: center;
+}
+
+}
+
+@media (max-width: 1200px) {
+.searchBarItems{
+   max-width: 1200px;
+   font-size: 1.5em;
+   margin: 0 auto;
+   justify-content: center;
+   display: flex;
+   flex-wrap: wrap;
+}
+}

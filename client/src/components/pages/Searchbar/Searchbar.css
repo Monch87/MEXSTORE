@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Karla:ital@1&family=Pacifico&display=swap');
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.search-bar-input{
+  border: 6px solid #a3d8d6;
+	padding: 4px;
+	height: 60px;
+	width: 750px;
+  margin: 0 auto 20px;
+}
+
+.input {
+  background: transparent;
+  width: 648px;
+  border: 0px;
+  height: 49px;
+  text-align: left;
+	position: relative;
+	outline: none;
+	bottom: 4px;
+	padding: 2px;
+  color: black;
+}
+
+.search{
+	width: 30px;
+	border: 0px;
+}
+
+@media (max-width: 375px) {
+.search-bar-input{
+	width: 350px;
+}
+
+.input {
+  width: 300px;
+  border: 0px;
+}
+
+.search{
+	width: 30px;
+	border: 0px;
+}
+}
+
+
+@media (max-width: 768px) {
+.search-bar-input{
+	width: 550px;
+}
+
+.input {
+  width: 300px;
+}
+}
