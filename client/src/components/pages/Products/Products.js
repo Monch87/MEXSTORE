@@ -133,7 +133,7 @@ class Products extends Component {
                                     </Dropdown.Toggle>
                                     <Dropdown.Menu>
                                         <Dropdown.Item onClick={() => this.sortList("1")}>Orden alfabético ascendente</Dropdown.Item>
-                                        <Dropdown.Item onClick={() => this.sortList("2")}>Orden alfabético descedente</Dropdown.Item>
+                                        <Dropdown.Item onClick={() => this.sortList("2")}>Orden alfabético descendente</Dropdown.Item>
                                         <Dropdown.Item onClick={() => this.sortList("3")}>Precio ascendente</Dropdown.Item>
                                     </Dropdown.Menu>
                                 </Dropdown>
