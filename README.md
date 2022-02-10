@@ -1,7 +1,6 @@
 # :cactus: MEXSTORE 	:mexico:
 
-Design project is a website for people who are looking to someone to provide industrial designs or people who want to  contribute in a project with the designer.
-
+"Mex-Store website" is for people who are looking mexican products or want to add new product.
 
 
 https://user-images.githubusercontent.com/72262776/153392671-c8331467-becd-416a-8061-0ba65ed29b20.mp4
