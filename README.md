@@ -15,11 +15,11 @@ The website integrates design projects by the designer with the respectice custo
 
 ## Endpoints table
 
-| Id  | Method | Path                                        | Description                                                            |
-| --- | ------ | ------------------------------------------- | ---------------------------------------------------------------------- |
-| 1   | get    | /                                           | Renders homepage                                                       |
-| 2   | post   | /newProduct                    | Renders to all designer's projects (logged in and not logged in)                                |
-| 3   | delete   | /deleteProduct/:product_id                                  | Validates user signup info (Enabled for ADMIN)                       |
+| Id | Method | Path                        | Description                                                                    |
+| ---| ------ | ----------------------------| ------------------------------------------------------------------------------ |
+| 1  | get    | /                           | This render show you the homepage where are all mexican products, buttons and a searchbar.     |
+| 2  | post   | /newProduct                 | Once you finished to use "Añandir nuevo producto" modal, this render will show you the new attached product. |
+| 3  | delete | /deleteProduct/:product_id  |This render is in the "Trash-image" button where each product card have one and you can use it for erase the product. |
 
 
   ## Instructions
