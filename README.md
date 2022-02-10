@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/72262776/153392671-c8331467-becd-416a-
 
 ## Description
 
-The website integrates design projects by the designer with the respectice customer's reviews. Also provides a customer log-in in order to create the review. All sign-ups will be created by the admin. In contact information there is a form in order to contact the designer.
+The website integrates it own API which was created by me using MONGODB and consist on add new products or search all products that are on the website.Of course, the website has other functions that you can use on the different buttons that website has.
 
 
 ## Endpoints table
