@@ -30,7 +30,13 @@ The website integrates it own API which was created by me using MONGODB and cons
 
 
 ![img1](https://user-images.githubusercontent.com/72262776/153400082-6154a37b-e9af-4243-b679-af0fd2bee2b7.png)
-  
+
+
+5. Once it's done, try all functions that the website has.
+
+![img3](https://user-images.githubusercontent.com/72262776/153402338-82c125f1-3c4d-4b66-acd8-f480638437df.png)
+
+
   ## Used technologies 
 
 - HTML5 
