@@ -18,15 +18,8 @@ The website integrates design projects by the designer with the respectice custo
 | Id  | Method | Path                                        | Description                                                            |
 | --- | ------ | ------------------------------------------- | ---------------------------------------------------------------------- |
 | 1   | get    | /                                           | Renders homepage                                                       |
-| 2   | get    | /projects-list                              | Renders to all designer's projects (logged in and not logged in)                                |
-| 3  | get    | /details/:id                                | Renders to an individual project (logged in and not logged in)                              |
-| 4   | get    | /contact                                    | Renders to contact form view (logged in and not logged in)                                  |
-| 5   | get    | /login                                      | Renders login form                                                     |
-| 6   | post   | /login                                      | Validates user login info                                              |
-| 7   | post   | /logout                                     | Logs user out                                                          |
-| 8   | get    | /signup                                     | Renders signup form (Enabled for ADMIN)                                                   |
-| 9   | post   | /signup                                     | Validates user signup info (Enabled for ADMIN)                                              |
-| 10   | put   | /profile/user:id                              | Renders the logged-in user to the main page of the projects. The user can leave a comment and edit in their assigned project too.  |
+| 2   | post   | /newProduct                    | Renders to all designer's projects (logged in and not logged in)                                |
+| 3   | delete   | /deleteProduct/:product_id                                  | Validates user signup info (Enabled for ADMIN)                       |
 
 
   ## Instructions
