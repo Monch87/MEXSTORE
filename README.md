@@ -28,8 +28,9 @@ The website integrates it own API which was created by me using MONGODB and cons
  3. FRONTEND: Run the app in the development mode "npm start". Open http://localhost:3000 in order to view it in the browser.
  4. Run MongoDB in order to take a look the Database.
 
-![idweb](https://user-images.githubusercontent.com/72262776/118497177-1e99c900-b725-11eb-9d7f-997bbf1b55c4.png)
 
+![img1](https://user-images.githubusercontent.com/72262776/153400082-6154a37b-e9af-4243-b679-af0fd2bee2b7.png)
+  
   ## Used technologies 
 
 - HTML5 
