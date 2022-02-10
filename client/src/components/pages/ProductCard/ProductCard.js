@@ -66,4 +66,5 @@ class ProductCard extends Component {
     }
 }
 
+
 export default ProductCard
