@@ -23,7 +23,7 @@ The website integrates it own API which was created by me using MONGODB and cons
 
   ## Instructions
 
- 1. Access to the file: "client" and server from your terminal. 
+ 1. Access to the files: "client" and server from your terminal. 
  2. BACKEND: Run the app in the development mode "npm run dev". Open http://localhost:5000 in order to view it in the browser.
  3. FRONTEND: Run the app in the development mode "npm start". Open http://localhost:3000 in order to view it in the browser.
  4. Run MongoDB in order to take a look the Database.
