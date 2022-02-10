@@ -38,25 +38,24 @@ The website integrates it own API which was created by me using MONGODB and cons
 
 
   ## Used technologies 
-
+  
+ BACK-END & FRONT-END
+ 
 - HTML5 
 - CSS3
 - JavaScript
 - React Bootstrap
 - Bootstrap
 - React
+- React-select
 - React-dom
-- React-datepicker
 - React-router-dom
 - Axios
-- Nodemailer
-- Cloudinary
 - API
-- bcrypt
 - CORS
 - Express
 - Mongoose
-- Passport
+- dotenv
 - SweetAlert
 
 
