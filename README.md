@@ -4,6 +4,10 @@ Design project is a website for people who are looking to someone to provide ind
 
 
 
+https://user-images.githubusercontent.com/72262776/153392671-c8331467-becd-416a-8061-0ba65ed29b20.mp4
+
+
+
 ## Description
 
 The website integrates design projects by the designer with the respectice customer's reviews. Also provides a customer log-in in order to create the review. All sign-ups will be created by the admin. In contact information there is a form in order to contact the designer.
